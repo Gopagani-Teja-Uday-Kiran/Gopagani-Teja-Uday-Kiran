@@ -4,7 +4,7 @@ I'm a full-stack developer interested in building useful applications and explor
 
 ## About me
 
-- Interested in web, app, and game development
+- Interested in web, app, and Software developer
 - Currently learning machine learning and building data-driven features
 - Open to collaborating on web, app, game, and applied AI/ML projects
 
@@ -24,4 +24,4 @@ A Chrome extension and web dashboard that screens Instagram profile and message 
 
 ## Let's collaborate
 
-Have an idea in web, apps, games, or applied machine learning? Feel free to open a discussion or issue in one of my repositories.
+Have an idea in web, apps,Softwares, or applied machine learning? Feel free to open a discussion or issue in one of my repositories.
